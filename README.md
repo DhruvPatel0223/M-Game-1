@@ -1,1 +1,2 @@
-# M-Game-1
+# 2player-game
+using database and js
